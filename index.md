@@ -12,4 +12,10 @@ for (int i = 0; i < 10; i++)
   Debug.Log(i)
 ```
 
+- [x] Add headers
+- [x] Add image
+- [x] Add code block
+- [ ] Add list
+- [ ] Determine why I had to add a description of the headers to the bottom of the page
+
 I added 6 headers of various sizes.
